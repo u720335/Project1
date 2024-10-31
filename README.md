@@ -9,8 +9,8 @@ This guide provides step-by-step instructions for installing a modpack via a zip
 
 ## Steps to Download the Latest Release
 
-1. **Select the Latest Release**: Look for the most recent release at the top of the page.
-2. **Download the Installer**: Click on the file link
+1. **Select the Latest Release**: Look for the most recent release at the right side of the page.
+2. **Download the Installer**: Click on the download link.
 
 ## Steps to Install the Modpack
 
