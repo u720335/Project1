@@ -39,6 +39,8 @@ This guide provides step-by-step instructions for installing a modpack via a zip
 
 - After importing, you may want to configure additional settings:
   - Adjust memory allocation under the **“Settings”** tab if needed.
+  - Use ZGC under the **“Settings”** tab in the **“Java arguments”** field
+      -XX:+UnlockExperimentalVMOptions -XX:+UseZGC
   - Ensure the Minecraft version matches that of the modpack.
 
 ### 7. Launch the Modpack
